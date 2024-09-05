@@ -17,5 +17,5 @@ Download and Apply: Once satisfied, you can download the cover letter and use it
 Important Note
 Please note that the actual configuration details of EasyApply GPT are securely stored within the ChatGPT platform and are not exposed or available on GitHub. This ensures that the tool remains safe, secure, and functional without exposing sensitive information.
 
-Commit Changes
-After making any modifications to this documentation or the codebase, be sure to commit your changes by scrolling down and clicking on the “Commit changes” button at the bottom of the page.
+EasyApply GPT: https://chatgpt.com/g/g-IXVXNRDZK-easyapply.
+
